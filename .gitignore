@@ -1,0 +1,20 @@
+# 编译输出
+*.o
+*.obj
+*.exe
+*.out
+*.ilk
+*.pdb
+
+# IDE
+.vscode/
+.idea/
+
+# 构建目录
+build/
+Debug/
+Release/
+
+# 系统文件
+Thumbs.db
+.DS_Store
